@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap");
+body {
+  font-family: 'Mukta', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.text h1 {
+  color: #e83636;
+  font-size: 45px;
+  font-weight: 700;
+}
+
+hr {
+  height: 3px !important;
+  color: #32549A !important;
+  background-color: #32549A !important;
+  opacity: 2 !important;
+}
+
+.section-title {
+  font-weight: bold;
+  background: #ccc;
+  padding: 8px;
+  border-left: 5px solid #e83636;
+  line-height: 60px;
+  color: #e83636;
+}
+
+.navbar {
+  background: #32549A;
+  padding: 0 !important;
+}
+
+nav a {
+  font-size: 22px;
+  color: #fff !important;
+  padding: 15px !important;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #e83636;
+}
+
+nav .bg-danger {
+  background-color: #e83636 !important;
+}
+
+.text-col {
+  color: #32549A;
+  font-size: 22px;
+  font-weight: 500;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.text-col:hover {
+  color: #e83636;
+}
+
+.word {
+  font-size: 18px;
+}
+
+.bg-2 {
+  background: #f7f7f7;
+}
+
+.downline {
+  border-bottom: #ccc solid 2px;
+  padding-bottom: 15px;
+}
+
+.section-title-2 {
+  font-weight: 700;
+  background: #ccc;
+  padding: 8px;
+  border-left: 5px solid #e83636;
+  line-height: 60px;
+  color: #32549A;
+}
+
+.bg-3 {
+  background: #333;
+}
+
+h3 {
+  padding-top: 15px;
+  color: #fff;
+  font-weight: 700;
+}
+
+h3:hover {
+  color: #e83636;
+}
+
+.fw-bold,
+h3,
+h2 {
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.section-title-3,
+h2 {
+  font-weight: 700;
+  background: #ccc;
+  padding: 8px;
+  border-left: 5px solid #e83636;
+  line-height: 15px;
+  color: #32549A;
+  font-size: 25px;
+}
+
+.section-title-4,
+h2 {
+  font-weight: 700;
+  background: #ccc;
+  padding: 8px;
+  border-left: 5px solid #e83636;
+  line-height: 25px;
+  color: #32549A;
+  font-size: 25px;
+}
+
+.bg-4 {
+  background: #32549A;
+  padding: 50px 20px;
+}
+
+footer .container ul {
+  list-style: none;
+}
+
+footer .container ul li a {
+  font-size: 24px;
+  padding-left: 12px;
+}
+
+.bg-5 {
+  background-color: #283d68;
+}
+
+footer p {
+  font-size: 22px;
+}
+/*# sourceMappingURL=style.css.map */
